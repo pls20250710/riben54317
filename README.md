@@ -16,4 +16,4 @@ SEO方面，成人网站面临的挑战较大，一方面要遵守严格的法�
 
 内容审核依然是行业的核心环节，平台通常结合人工审核和AI技术，及时清除违规内容，保障平台的健康生态。未来，随着AI技术的持续发展，内容生成和审核效率将进一步提升，成人平台将在合规与创新中寻找到更好的平衡点，为用户提供更安全、高质量的观看体验。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/pls20250710/riben54317 ）</span>
